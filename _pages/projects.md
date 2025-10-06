@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: <Ari Ben-Zvi> - Portfolio
 permalink: /projects/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Ari Ben-Zvi> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
