@@ -6,7 +6,7 @@ title: <Ari Ben-Zvi>
 ## Welcome to my portfolio! I am a 2028 Mechanical Engineering Student.
 
 
-![Profile Picture]({{ "assets/images/spaceship-design.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/f22.png" | relative_url }}){: class="profile-image"}
 
  
 My name is Ari Ben-Zvi, and I am a Mechanical Engineering Student Class of 2028!
