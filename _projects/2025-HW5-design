@@ -9,6 +9,7 @@ image: /assets/images/image.png
 <div class="project-content">
   <section class="project-section">
     <h2>Project Description:</h2>
+    <p>Design Problem: Lift the maximum weight to the maximum height.</p>
     <p>Constraints:</p>
     <p>150 x 50 cm design box, 3 pin supports (2 ground supports), including a linear actuator and bar of my choice<p>
   </section>
