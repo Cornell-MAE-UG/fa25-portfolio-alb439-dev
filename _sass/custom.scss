@@ -30,8 +30,14 @@ $accent-color: #cc0000;
   font-weight: 700;
 }
 
-h1 {
-  margin-bottom: 25px;
+a {
+  color: $accent-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lighten($accent-color, 15%);
+  text-decoration: underline;
 }
 
 body {
