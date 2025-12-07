@@ -7,8 +7,6 @@ image: /assets/images/f16.png
 file: /assets/Thermo Portfolio Assignment.pdf
 ---
 
-You can download the full report here: [Thermo Portfolio Assignment PDF]({{ "/assets/Thermo Portfolio Assignment.pdf" | relative_url }})
 
-Preview:
 
 <iframe src="{{ "/assets/Thermo Portfolio Assignment.pdf" | relative_url }}" width="100%" height="800px"></iframe>
