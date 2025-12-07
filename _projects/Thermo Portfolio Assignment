@@ -7,9 +7,6 @@ image: /assets/images/f16.png
 file: /assets/Thermo Portfolio Assignment.pdf
 ---
 
-
-Here is my design for the project.
-
 You can download the full report here: [Thermo Portfolio Assignment PDF]({{ "/assets/Thermo Portfolio Assignment.pdf" | relative_url }})
 
 Preview:
