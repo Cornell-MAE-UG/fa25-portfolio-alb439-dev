@@ -17,7 +17,7 @@ baseurl                  : "/fa25-portfolio-alb439-dev" # Set this to your repo 
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+color_scheme: darkred # light/default, dark, aqua, or darkred
 
 sass:
   style: compressed

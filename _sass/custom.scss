@@ -2,6 +2,7 @@
 $primary-color: #3a3f58;
 $background-color: #f7f8fa;
 $text-color: #333;
+$accent-color: #cc0000;
 
 // Set theme colors based on the color_scheme variable
 @if $color_scheme == 'dark' {
@@ -16,6 +17,11 @@ $text-color: #333;
   $primary-color: #925959;
   $background-color: #f6f1e0;
   $text-color: #1e0101;
+} @else if $color_scheme == 'darkred' {
+  $primary-color: #8b0000;
+  $background-color: #1a0000;
+  $text-color: #ffffff;
+  $accent-color: #ff6b6b;
 }
 
 
@@ -40,7 +46,7 @@ body {
 header, footer {
   padding: 10px 5px;
   background: $primary-color;
-  color: $background-color;
+  color: $accent-color;
 }
 
 header {
@@ -240,7 +246,7 @@ footer {
 .back-arrow {
   display: inline-block;
   font-size: 1.1em;
-  color: #686d85; 
+  color: $accent-color; 
   text-decoration: none;
   margin-bottom: 1em;
   font-weight: bold;
@@ -248,7 +254,7 @@ footer {
 }
 
 .back-arrow:hover {
-  color: #3a3f58; 
+  color: lighten($accent-color, 15%); 
   transform: translateX(-4px);
 }
 
