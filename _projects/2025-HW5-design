@@ -13,14 +13,14 @@ image: /assets/images/image.png
   </section>
 
   <section class="project-section">
-    <h3>Rigid Design</h3>
+    <h3>Rigid Design:</h3>
     <div class="project-image-container">
       <img src="{{ "/assets/images/image.png" | relative_url }}" alt="Rigid Design" class="project-design-image" />
     </div>
   </section>
 
   <section class="project-section">
-    <h3>Beam Deflection Design</h3>
+    <h3>Beam Deflection Design:</h3>
     <div class="project-image-container">
       <img src="{{ "/assets/images/staticsimage3.png" | relative_url }}" alt="Beam Deflection Design" class="project-design-image" />
     </div>
