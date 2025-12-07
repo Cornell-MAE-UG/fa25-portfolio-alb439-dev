@@ -3,7 +3,7 @@ layout: default
 title: <Ari Ben-Zvi>
 ---
 
-## Welcome to my portfolio! I am a 2028 Cornell Mechanical Engineering Student.
+## Welcome to my Portfolio! I am a 2028 Cornell Mechanical Engineering Student.
 
 
 ![Profile Picture]({{ "assets/images/f22.png" | relative_url }}){: class="profile-image"}
