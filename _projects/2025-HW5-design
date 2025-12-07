@@ -6,5 +6,12 @@ technologies: [OneNote]
 image: /assets/images/image.png
 ---
 
+## Project Description
 
-Here is my design for the project.
+[Add your project text here]
+
+## Design Images
+
+![Design 1]({{ "/assets/images/image.png" | relative_url }})
+
+![Design 2]({{ "/assets/images/staticsimage3.png" | relative_url }})
