@@ -6,16 +6,23 @@ technologies: [OneNote]
 image: /assets/images/image.png
 ---
 
-## Project Description
+<div class="project-content">
+  <section class="project-section">
+    <h2>Project Description</h2>
+    <p>[Add your project text here]</p>
+  </section>
 
-[Add your project text here]
+  <section class="project-section">
+    <h3>Rigid Design</h3>
+    <div class="project-image-container">
+      <img src="{{ "/assets/images/image.png" | relative_url }}" alt="Rigid Design" class="project-design-image" />
+    </div>
+  </section>
 
-## Design Images
-
-**Rigid Design:**
-
-![Design 1]({{ "/assets/images/image.png" | relative_url }})
-
-**Beam Deflection Design:**
-
-![Design 2]({{ "/assets/images/staticsimage3.png" | relative_url }})
+  <section class="project-section">
+    <h3>Beam Deflection Design</h3>
+    <div class="project-image-container">
+      <img src="{{ "/assets/images/staticsimage3.png" | relative_url }}" alt="Beam Deflection Design" class="project-design-image" />
+    </div>
+  </section>
+</div>
