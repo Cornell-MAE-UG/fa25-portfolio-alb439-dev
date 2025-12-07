@@ -12,6 +12,10 @@ image: /assets/images/image.png
 
 ## Design Images
 
+**Rigid Design:**
+
 ![Design 1]({{ "/assets/images/image.png" | relative_url }})
+
+**Beam Deflection Design:**
 
 ![Design 2]({{ "/assets/images/staticsimage3.png" | relative_url }})
