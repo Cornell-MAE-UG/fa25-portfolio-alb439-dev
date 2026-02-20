@@ -169,20 +169,21 @@ footer {
 
 .gallery-item img {
   width: 100%;
-  height: auto;
+  height: 170px;
   display: block;
   object-fit: cover;
   object-position: center;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  flex: 1 0 auto;
+  flex: 0 0 170px;
 }
 
 .gallery-item p {
-  margin: 10px 8px;
-  font-size: .95rem;
+  margin: 8px 8px;
+  font-size: .88rem;
   color: $text-color;
   line-height: 1.2;
+  min-height: 2.4em;
   word-break: break-word;
 }
 
