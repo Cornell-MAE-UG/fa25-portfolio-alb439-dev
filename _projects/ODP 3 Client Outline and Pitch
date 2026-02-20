@@ -1,0 +1,12 @@
+---
+layout: project
+title: "ODP 3: Client Outline and Pitch"
+description: Client outline and pitch document
+technologies: [PDF]
+image: /assets/images/slfpicture.png
+file: /assets/MAE 2250 3_ Client Outline and Pitch.pdf
+---
+
+<a href="{{ site.baseurl }}/assets/MAE%202250%203_%20Client%20Outline%20and%20Pitch.pdf?v=1" target="_blank" class="btn btn-primary">Download Full Report</a>
+
+<iframe src="{{ site.baseurl }}/assets/MAE%202250%203_%20Client%20Outline%20and%20Pitch.pdf?v=1#view=FitH" width="100%" height="800px" style="border: none;"></iframe>
