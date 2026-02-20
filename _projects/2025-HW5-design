@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Statics Design Project
+order: 1
 description: My design
 technologies: [OneNote]
 image: /assets/images/image.png

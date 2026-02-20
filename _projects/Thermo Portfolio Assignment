@@ -1,6 +1,8 @@
 ---
 layout: project
+layout: project
 title: Thermodynamics Nozzle Analysis
+order: 2
 description: Analysis of F16 Nozzle
 technologies: [OneNote, Google Docs]
 image: /assets/images/f16.png
