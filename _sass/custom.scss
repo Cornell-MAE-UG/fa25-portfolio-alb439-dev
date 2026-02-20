@@ -176,14 +176,15 @@ footer {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   flex: 0 0 170px;
+  margin-bottom: 4px;
 }
 
 .gallery-item p {
-  margin: 8px 8px;
-  font-size: .88rem;
+  margin: 4px 6px 8px;
+  font-size: .85rem;
   color: $text-color;
-  line-height: 1.2;
-  min-height: 2.4em;
+  line-height: 1.1;
+  min-height: 2.2em;
   word-break: break-word;
 }
 
