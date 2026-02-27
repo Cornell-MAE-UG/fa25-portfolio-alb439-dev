@@ -153,9 +153,10 @@ footer {
 }
 
 .cover-image {
-  width: 320px;
+  width: 200px;          /* smaller so it fits inside the 600px container */
   max-width: 100%;
   margin-right: 30px;
+  margin-bottom: 20px;   /* give breathing room when it wraps */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
