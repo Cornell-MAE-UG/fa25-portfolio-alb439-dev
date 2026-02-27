@@ -155,14 +155,14 @@ footer {
 .cover-image {
   width: 200px;          /* smaller so it fits inside the 600px container */
   max-width: 100%;
-  margin-right: 30px;
+  margin-right:20px;    /* tighten gap between image and text */
   margin-bottom: 20px;   /* give breathing room when it wraps */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .cover-text {
-  text-align: center;
+  text-align:left;      /* left-align paragraphs inside */
   max-width: 600px;
 }
 
