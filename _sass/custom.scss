@@ -163,7 +163,10 @@ footer {
 
 .cover-text {
   text-align:left;      /* left-align paragraphs inside */
-  max-width: 600px;
+  /* allow the text region to flex and occupy remaining space; this
+     prevents the block from appearing as a narrow centered column */
+  flex: 1 1 auto;
+  max-width: 600px;      /* still cap for readability */
 }
 
 .cover-text h2 {
