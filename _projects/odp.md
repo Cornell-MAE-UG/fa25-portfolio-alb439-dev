@@ -1,10 +1,9 @@
 ---
-layout: project
+layout: default
 title: "ODP"
 description: ODP sub-projects
 order: 3
 technologies: []
-image: /assets/images/slfpicture.png
 permalink: /odp/
 ---
 
@@ -21,3 +20,7 @@ permalink: /odp/
     {% endfor %}
 </div>
 </div>
+
+<a href="{{ '/projects/' | relative_url }}" class="back-arrow">
+    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+</a>

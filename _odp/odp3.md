@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "ODP 3"
+title: "ODP 3: Client Outline and Pitch"
 description: Client outline and pitch document
 order: 1
 technologies: [PDF]
