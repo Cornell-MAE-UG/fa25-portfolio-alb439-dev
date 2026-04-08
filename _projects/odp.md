@@ -4,6 +4,7 @@ title: "ODP"
 description: ODP sub-projects
 order: 3
 technologies: []
+image: /assets/images/slfpicture.png
 permalink: /odp/
 ---
 
