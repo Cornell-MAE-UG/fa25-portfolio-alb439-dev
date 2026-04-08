@@ -8,6 +8,6 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [alb439@cornell.edu](mailto:alb439@cornell.edu) | | | **Phone:** 203-952-8574
+**Email:** [alb439@cornell.edu](mailto:alb439@cornell.edu) | **LinkedIn:** [Ari Ben-Zvi](https://www.linkedin.com/in/ari-ben-zvi-376767348/) | **Phone:** 203-952-8574
 
 ---
