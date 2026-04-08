@@ -4,7 +4,7 @@ title: "ODP 5: Functional Prototype LS1&2"
 description: Functional prototype report for ODP 5
 order: 2
 technologies: [PDF]
-image: /assets/images/slfpicture.png
+image: /assets/images/slf2.jpg
 file: /assets/ODP 5_ Functional Prototype LS1&2.pdf
 ---
 
