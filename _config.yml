@@ -31,6 +31,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  odp:
+    output: true
+    permalink: /odp/:path/
 
 # Markdown
 markdown: kramdown
