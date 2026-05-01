@@ -4,7 +4,7 @@ title: "ODP 6: Client Report"
 description: Client report document for ODP 6
 order: 3
 technologies: [PDF]
-image: /assets/images/slfpicture.png
+image: /assets/images/Spotted Lanternfly.png
 file: /assets/ODP 6_ Client Report.pdf
 ---
 
